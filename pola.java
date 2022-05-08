@@ -1,8 +1,12 @@
 public class pola{
     public static void main(String arg[])
     {
-        System.out.println(" codingg guys");
-        System.out.println("madhu a playboy");
+        String name="python";
+        String code="is coding";
+        System.out.println(" coding guys");
+        System.out.println("madhu");
+        System.out.println(name+code);
+
     }
 
     
