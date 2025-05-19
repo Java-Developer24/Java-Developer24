@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack Wizard | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
-  <a href="https://github.com/JavaDeveloper24" target="_blank">
+  <a href="https://github.com/Java-Developer24" target="_blank">
     <img src="https://img.shields.io/github/followers/JavaDeveloper24?label=Follow&style=social" />
   </a>
   <a href="https://linkedin.com/in/polagouni-balakrishna-04a4641a9" target="_blank">
