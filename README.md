@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there 👋, I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -33,44 +33,14 @@
 
 ---
 
-## 🔥 Featured Projects
-
-<div align="center">
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/target.png"/>
-      <br/>
-      <strong>Contest Winner Platform</strong>
-      <br/>
-      🎯 Ticket logic for fair reward distribution across teams  
-      <br/><code>MERN Stack</code>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/wheel.png"/>
-      <br/>
-      <strong>Spinning Wheel Dashboard</strong>
-      <br/>
-      🎯 Reward management with Framer Motion + Admin panel  
-      <br/><code>React, Node.js, MongoDB</code>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://img.icons8.com/fluency/64/server.png"/>
-      <br/>
-      <strong>Virtual Number Sales</strong>
-      <br/>
-      🎯 Real-time secure sales dashboard with IP-blocked admin  
-      <br/><code>MERN, JWT, APIs</code>
-    </td>
-  </tr>
-</table>
-
-</div>
+- 🔭 Full-stack dev passionate about building end-to-end products
+- 🌱 Exploring advanced cloud and scalable deployments
+- 💡 Freelancer with hands-on experience in enterprise apps
+- 📫 **Reach me at:** `balu2446madhu@gmail.com`
 
 ---
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 <div align="center">
 
@@ -87,7 +57,7 @@
 
 ---
 
-## 📈 GitHub Stats
+### 🧩 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JavaDeveloper24&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -97,12 +67,21 @@
 
 ---
 
-## 📜 Certification
+## 🔥 Featured Projects
+
+
+
+
+### 📜 Certification
 
 - 🏅 **AWS Certified Cloud Practitioner**
 
 ---
 
+### ✨ Fun Fact
+> I convert ☕ into code and deploy dreams into reality 🚀
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
