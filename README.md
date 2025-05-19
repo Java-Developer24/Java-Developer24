@@ -23,16 +23,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Developer+based+in+India.;Cloud+Enthusiast+%7C+API+Lover+%7C+Tech+Explorer;Let's+build+cool+things+together!+💻" alt="Typing SVG" />
 
 </div>
-
-- 🔭 Currently working on MERN-based enterprise tools & dashboards  
-- 🌱 Exploring DevOps tools and automation  
-- 👨‍💻 Built multiple freelance projects with real-world use cases  
-- 💬 Ask me about **React, Node.js, APIs, or cloud deployments**  
-- 📫 Reach me: **balu2446madhu@gmail.com**  
-- ⚡ Fun fact: I convert ☕ into code and deploy dreams into reality 🚀  
-
----
-
 - 🔭 Full-stack dev passionate about building end-to-end products
 - 🌱 Exploring advanced cloud and scalable deployments
 - 💡 Freelancer with hands-on experience in enterprise apps
@@ -66,6 +56,11 @@
 </p>
 
 ---
+
+
+
+
+
 
 ## 🔥 Featured Projects
 
