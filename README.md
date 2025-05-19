@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
+<h1 align="center">Hey there 👋, I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
 <h3 align="center">🚀 Full-Stack Developer | MERN Stack | Cloud Enthusiast</h3>
 
 <p align="center">
@@ -16,15 +16,61 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 Full-stack dev passionate about building end-to-end products
-- 🌱 Exploring advanced cloud and scalable deployments
-- 💡 Freelancer with hands-on experience in enterprise apps
-- 📫 **Reach me at:** `balu2446madhu@gmail.com`
+## 🙋‍♂️ About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Developer+based+in+India.;Cloud+Enthusiast+%7C+API+Lover+%7C+Tech+Explorer;Let's+build+cool+things+together!+💻" alt="Typing SVG" />
+
+</div>
+
+- 🔭 Currently working on MERN-based enterprise tools & dashboards  
+- 🌱 Exploring DevOps tools and automation  
+- 👨‍💻 Built multiple freelance projects with real-world use cases  
+- 💬 Ask me about **React, Node.js, APIs, or cloud deployments**  
+- 📫 Reach me: **balu2446madhu@gmail.com**  
+- ⚡ Fun fact: I convert ☕ into code and deploy dreams into reality 🚀  
 
 ---
 
-### 🚀 Tech Stack
+## 🔥 Featured Projects
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/000000/target.png"/>
+      <br/>
+      <strong>Contest Winner Platform</strong>
+      <br/>
+      🎯 Ticket logic for fair reward distribution across teams  
+      <br/><code>MERN Stack</code>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/wheel.png"/>
+      <br/>
+      <strong>Spinning Wheel Dashboard</strong>
+      <br/>
+      🎯 Reward management with Framer Motion + Admin panel  
+      <br/><code>React, Node.js, MongoDB</code>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.icons8.com/fluency/64/server.png"/>
+      <br/>
+      <strong>Virtual Number Sales</strong>
+      <br/>
+      🎯 Real-time secure sales dashboard with IP-blocked admin  
+      <br/><code>MERN, JWT, APIs</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 🚀 Tech Stack
 
 <div align="center">
 
@@ -41,7 +87,7 @@
 
 ---
 
-### 🧩 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JavaDeveloper24&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -51,24 +97,9 @@
 
 ---
 
-### 📌 Highlighted Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| 🎯 **Contest Winner Platform** | Reward logic-based system for employee contests | MERN |
-| 🎯 **Spinning Wheel Dashboard** | Admin-controlled dashboard with Framer Motion animations | MERN + Framer |
-| 🎯 **Virtual Number Sales** | Secured user portal for virtual number sales with admin access | MERN + JWT |
-
----
-
-### 📜 Certification
+## 📜 Certification
 
 - 🏅 **AWS Certified Cloud Practitioner**
-
----
-
-### ✨ Fun Fact
-> I convert ☕ into code and deploy dreams into reality 🚀
 
 ---
 
