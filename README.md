@@ -17,9 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Developer+based+in+India.;Cloud+Enthusiast+%7C+API+Lover+%7C+Tech+Explorer;Let's+build+cool+things+together!+💻" alt="Typing SVG" />
-</div>
+
 
 🚀 Passionate full-stack developer crafting scalable solutions for real-world problems.  
 🌱 Currently learning advanced cloud strategies and modern DevOps.  
