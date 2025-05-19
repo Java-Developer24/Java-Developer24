@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
-<h3 align="center">🚀 Full-Stack Developer | MERN Stack | Cloud Enthusiast</h3>
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0a66c2">Polagouni Balakrishna</span></h1>
+<h3 align="center">🚀 Full-Stack Developer | MERN Stack Wizard | ☁️ Cloud Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/JavaDeveloper24" target="_blank">
@@ -19,64 +18,68 @@
 ## 🙋‍♂️ About Me
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Developer+based+in+India.;Cloud+Enthusiast+%7C+API+Lover+%7C+Tech+Explorer;Let's+build+cool+things+together!+💻" alt="Typing SVG" />
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Full-stack+Developer+based+in+India.;Cloud+Enthusiast+%7C+API+Lover+%7C+Tech+Explorer;Let's+build+cool+things+together!+💻" alt="Typing SVG" />
 </div>
-- 🔭 Full-stack dev passionate about building end-to-end products
-- 🌱 Exploring advanced cloud and scalable deployments
-- 💡 Freelancer with hands-on experience in enterprise apps
-- 📫 **Reach me at:** `balu2446madhu@gmail.com`
+
+🚀 Passionate full-stack developer crafting scalable solutions for real-world problems.  
+🌱 Currently learning advanced cloud strategies and modern DevOps.  
+🎯 Freelance experience with enterprise-grade dashboards and automation tools.  
+📫 Reach me at: **balu2446madhu@gmail.com**
 
 ---
 
-### 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=js,java,html,css,mysql,mongodb" />
+**Languages & Databases**  
+<img src="https://skillicons.dev/icons?i=js,java,mysql,mongodb" />
 
-**Frameworks & Tools**  
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,docker,git,postman" />
+**Frameworks & Libraries**  
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,bootstrap,tailwind" />
 
-**Cloud & DevOps**  
-<img src="https://skillicons.dev/icons?i=aws,azure,vercel,nginx" />
+**DevOps & Tools**  
+<img src="https://skillicons.dev/icons?i=docker,git,postman,jira,vercel" />
+
+**Cloud Platforms**  
+<img src="https://skillicons.dev/icons?i=aws,azure,nginx" />
 
 </div>
 
 ---
 
-### 🧩 GitHub Stats
+## 🔥 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavaDeveloper24&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaDeveloper24&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaDeveloper24&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaDeveloper24&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
+## 🚀 Featured Projects
 
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| 🎯 **Contest Winner Platform** | Reward engine for internal sales teams with dynamic ticket allocation and API logic. | MERN, REST API |
+| 🎡 **Employee Spin Wheel** | Interactive reward UI with Framer Motion animations and admin controls. | React, Node.js, MongoDB |
+| ☎️ **Virtual Number Sales** | Full system with user authentication, call API integration, and real-time controls. | MERN, JWT, Role-based Auth |
 
+---
 
-
-
-## 🔥 Featured Projects
-
-
-
-
-### 📜 Certification
+## 📜 Certifications
 
 - 🏅 **AWS Certified Cloud Practitioner**
 
 ---
 
-### ✨ Fun Fact
+## ✨ Fun Fact
+
 > I convert ☕ into code and deploy dreams into reality 🚀
 
 ---
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
